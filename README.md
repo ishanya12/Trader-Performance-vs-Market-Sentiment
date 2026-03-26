@@ -27,14 +27,7 @@ trading-analysis/
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the Repository
-
-```
-git clone https://github.com/ishanya12/trading-analysis.git
-cd trading-analysis
-```
-
-### 2️⃣ Create Virtual Environment (Recommended)
+### 1️⃣ Create Virtual Environment (Recommended)
 
 ```
 python -m venv venv
@@ -56,7 +49,7 @@ source venv/bin/activate
 
 ---
 
-### 3️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 
 ```
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
