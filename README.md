@@ -107,7 +107,7 @@ Displays model performance in predicting profitable vs losing trades.
 
 ---
 
-## 🧠 Methodology
+### 🧠 Methodology
 
 * Cleaned and standardized both datasets
 * Converted timestamps and aligned data by date
@@ -121,7 +121,7 @@ Displays model performance in predicting profitable vs losing trades.
 
 ---
 
-## 📌 Key Insights
+### 📌 Key Insights
 
 * Higher average PnL observed during **Greed** periods
 * **Win rate improves slightly** in Greed markets
@@ -131,7 +131,7 @@ Displays model performance in predicting profitable vs losing trades.
 
 ---
 
-## 💡 Strategy Recommendations
+###💡 Strategy Recommendations
 
 * Reduce position size and leverage during Fear periods
 * Avoid overtrading in highly volatile markets
@@ -141,7 +141,7 @@ Displays model performance in predicting profitable vs losing trades.
 
 ---
 
-## 🤖 Model Details
+### 🤖 Model Details
 
 * **Algorithm:** Random Forest Classifier
 * **Objective:** Predict whether a trade will be profitable
@@ -152,7 +152,7 @@ Displays model performance in predicting profitable vs losing trades.
 
 ---
 
-## 🚀 Future Improvements
+### 🚀 Future Improvements
 
 * Add risk metrics (Sharpe Ratio, Drawdown)
 * Try advanced models (XGBoost, LightGBM)
