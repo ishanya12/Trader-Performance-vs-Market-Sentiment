@@ -85,7 +85,7 @@ analysis.py
 
 ### 📈 PnL Distribution
 
-![PnL Distribution](screenshots/pnl_distribution.png)
+![PnL Distribution](pnl_distribution.png)
 
 Shows how profit and loss varies across Fear and Greed market conditions.
 
@@ -93,7 +93,7 @@ Shows how profit and loss varies across Fear and Greed market conditions.
 
 ### 📊 Win Rate by Sentiment
 
-![Win Rate](screenshots/win_rate.png)
+![Win Rate](win_rate.png)
 
 Indicates slightly higher win rates during Greed periods.
 
@@ -101,7 +101,7 @@ Indicates slightly higher win rates during Greed periods.
 
 ### 🔥 Confusion Matrix
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 Displays model performance in predicting profitable vs losing trades.
 
